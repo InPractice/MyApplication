@@ -74,6 +74,69 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EF2F0BDE1935AB9200CFC552 /* Database */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Database;
+			sourceTree = "<group>";
+		};
+		EF2F0BDF1935AB9200CFC552 /* General */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = General;
+			sourceTree = "<group>";
+		};
+		EF2F0BE01935AB9200CFC552 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		EF2F0BE11935AB9200CFC552 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Libraries;
+			sourceTree = "<group>";
+		};
+		EF2F0BE21935AB9200CFC552 /* Macro */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Macro;
+			sourceTree = "<group>";
+		};
+		EF2F0BE31935AB9200CFC552 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EF2F0BE41935AB9200CFC552 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		EF2F0BE51935AB9200CFC552 /* Sections */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sections;
+			sourceTree = "<group>";
+		};
+		EF2F0BE61935AB9200CFC552 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 		EFDD880C1931EB2200D9161C = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +170,15 @@
 		EFDD881E1931EB2200D9161C /* MyApplication */ = {
 			isa = PBXGroup;
 			children = (
+				EF2F0BDE1935AB9200CFC552 /* Database */,
+				EF2F0BDF1935AB9200CFC552 /* General */,
+				EF2F0BE01935AB9200CFC552 /* Helpers */,
+				EF2F0BE11935AB9200CFC552 /* Libraries */,
+				EF2F0BE21935AB9200CFC552 /* Macro */,
+				EF2F0BE31935AB9200CFC552 /* Models */,
+				EF2F0BE41935AB9200CFC552 /* Resources */,
+				EF2F0BE51935AB9200CFC552 /* Sections */,
+				EF2F0BE61935AB9200CFC552 /* Services */,
 				EFDD88271931EB2200D9161C /* JTTAppDelegate.h */,
 				EFDD88281931EB2200D9161C /* JTTAppDelegate.m */,
 				EFDD882A1931EB2200D9161C /* Images.xcassets */,
@@ -438,6 +510,7 @@
 				EFDD88431931EB2200D9161C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EFDD88441931EB2200D9161C /* Build configuration list for PBXNativeTarget "MyApplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -446,6 +519,7 @@
 				EFDD88461931EB2200D9161C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
